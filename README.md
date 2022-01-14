@@ -6,9 +6,7 @@ First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the currently available jobs posted in [graphql.jobs
-](https://graphql.jobs).
+](https://graphql.jobs)
